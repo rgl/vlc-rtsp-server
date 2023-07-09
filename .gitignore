@@ -1,0 +1,5 @@
+ffmpeg/
+*.xz
+*.mov
+*.mp4
+*_stats.txt
